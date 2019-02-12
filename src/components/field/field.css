@@ -1,0 +1,15 @@
+
+.field {
+    background-color: rgba(48,48,70, 0.9) ;
+    width: 400px;
+    height: 700px;
+
+    position: fixed;
+        top: 50%;
+
+        transform: translate(-50%, -50%);
+}
+
+a {
+    color: white;
+}

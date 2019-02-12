@@ -1,0 +1,18 @@
+.head {
+    background-color: rgba(48,48,70, 0.9) ;
+    width: 900px; 
+    height: 150px;
+
+    position: inherit;
+        left: 50%;
+        top: 10px;
+        transform: translate(-50%, -50%);
+}
+
+.history {
+    color: red;
+
+    position: inherit;
+    left: 50px;
+
+}

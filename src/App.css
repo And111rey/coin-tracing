@@ -1,0 +1,48 @@
+.App {
+
+background-color:rgba(179, 169, 169, 0.5);
+width: 1350px;
+height: 750px;
+
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+
+  color: white;
+  text-align: center;
+
+}
+
+input {
+  background-color: rgb(179,168,77);
+  width: 150px;
+  height: 50px;
+
+
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.butt{
+  background-color: rgb(179,168,77);
+  width: 150px;
+  height: 50px;
+
+
+  position: fixed;
+  left: 25%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+em {
+  color: rgb(211, 134, 19);
+}
+
+.p {
+  color: red;
+}
